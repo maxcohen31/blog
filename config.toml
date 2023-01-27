@@ -1,3 +1,17 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://maxcohen31.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Max's digital space"
+metaDataFormat = "yaml"
+theme = "m10c"
+
+
+[params]
+ author = "Emanuele Abbate"
+ description = "Personal blog"
+ 
+
+
+ [[params.social]]
+  icon = "github"
+  name = "Github"
+  url = "https://github.com/maxcohen31"
