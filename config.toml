@@ -1,15 +1,23 @@
 baseURL = 'https://maxcohen31.github.io/'
 languageCode = 'en-us'
-title = "Max's digital space"
+title = "Max's blog"
 metaDataFormat = "yaml"
 theme = "m10c"
 
 
 [params]
  author = "Emanuele Abbate"
- description = "Aspiring data scientist. Lost in the digital world."
- avatar = "img/retro.jpg" 
+ menu_item_separator = " | "
+ description = "CS student | GNU/Linux enthusiast | Aspiring Data scientist"
+ avatar = "img/retro.jpg"
 
+[[menu.main]]
+    name = "Home"
+    url = "/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
 
  [[params.social]]
   icon = "github"
