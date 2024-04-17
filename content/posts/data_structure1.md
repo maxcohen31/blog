@@ -89,7 +89,7 @@ Node<T>* LinkedList<T>::GetData(int index)
 }
 ```
 
-## Insert head in the linked list
+## Insertion at the beginning of the list
 ```cpp
 template<typename T>
 void LinkedList<T>::InsertHead(T val)
@@ -108,7 +108,7 @@ void LinkedList<T>::InsertHead(T val)
 }
 ```
 
-## Insert tail in the linked list
+## Insertion at the end of the list
 ```cpp
 template <typename T>
 void LinkedList<T>::InsertTail(T val)
@@ -134,7 +134,7 @@ void LinkedList<T>::InsertTail(T val)
 }
 ```
 
-## Insert node in a linked list at given index
+## Insert a node at a specific index
 ```cpp
 template<typename T>
 void LinkedList<T>::Insert(int index, T val)
