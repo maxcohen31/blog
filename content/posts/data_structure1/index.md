@@ -1,7 +1,7 @@
 ---
 title: "Data structures: Linked List"
 date: 2023-03-10T11:55:27+01:00
-# draft: true
+# draft: false
 ---
 
 ## What is a linked list?

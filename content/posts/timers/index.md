@@ -1,8 +1,9 @@
----
-title: "An introduction to systemd timers"
-date: 2023-09-16T14:25:27+02:00
-#draft: true 
----
++++
+title = "An introduction to systemd timers"
+date = 2023-09-16T14:25:27+02:00
+draft = false
++++
+
 
 ## Scheduling tasks in Linux
 If you are a sysadmin or a Linux enthusiast automating the boring stuff is crucial. Systemd timers are a powerful tool Linux provides you to schedule a certain task.
