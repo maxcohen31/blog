@@ -1,4 +1,4 @@
-baseURL = 'https://maxcohen31.github.io/'
+baseURL = 'https://maxcohen31.github.io/blog/'
 languageCode = 'en-us'
 #title = "Max's blog"
 metaDataFormat = "yaml"
